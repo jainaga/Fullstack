@@ -38,7 +38,7 @@ function App(props) {
   return (
       <div>
           
-          <div>Tiene
+          <div>
             <h1>Anecdota del dia</h1>
             <h4>{anecdotas[selected]}</h4>
             <p>Tiene {votos[selected]} votos</p> 
